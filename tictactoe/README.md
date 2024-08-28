@@ -49,4 +49,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 #### reff pictures
-![alt text](image.png)
+![alt text](image-2.png)
