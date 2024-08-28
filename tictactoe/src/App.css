@@ -1,0 +1,29 @@
+
+/*block from Block.tsx*/
+.block{
+    border: 2px solid rgb(0, 87, 111);
+    height: 100px;
+    width: 100px;
+    background-color: rgb(186, 239, 239);
+    cursor: pointer;
+    padding: 10px;
+    
+}
+
+.row{
+    display:flex;        /*make rows in multiple lines*/
+
+    
+}
+.App{
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+.board{
+    padding: 190px;
+    background-color: rgb(156, 255, 232);
+}
+
+
